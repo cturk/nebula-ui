@@ -3,26 +3,31 @@
 </div>
 
 <div align="center">
-  <img src="images/logo-style3-03.png" alt="Nebula UI Logo" width="150px">
-</div>
-
-<div align="center">
 
 # Nebula UI
 
+🚧 **WORK IN PROGRESS - ALPHA STAGE** 🚧
+
 A modern, intuitive, and customizable UI framework designed for seamless integration and exceptional user experiences.
 
+[![GitHub Repo stars](https://img.shields.io/github/stars/cturk/nebula-ui?style=social)](https://github.com/cturk/nebula-ui/stargazers)
+[![GitHub followers](https://img.shields.io/github/followers/cturk?style=social)](https://github.com/cturk/nebula-ui)
 [![GitHub license](https://img.shields.io/github/license/cturk/nebula-ui)](https://github.com/cturk/nebula-ui/blob/main/LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/cturk/nebula-ui/blob/main/CONTRIBUTING.md)
-[![GitHub issues](https://img.shields.io/github/issues/cturk/nebula-ui)](https://github.com/cturk/nebula-ui/issues)
 
 </div>
 
-## Status
+## Project Status
 
-🚧 **Project Status: Early Development** 🚧
+⚠️ **Important Notice** ⚠️
 
-Nebula UI is currently in early development. We're actively working on core components and establishing the foundation for a robust UI framework. While not yet ready for production use, we welcome developers to explore, provide feedback, and contribute to shaping its future.
+Nebula UI is currently in early alpha development. The framework is not yet ready for production use. To stay updated on our progress and be notified when the beta version is released:
+
+1. ⭐ Star this repository
+2. 👀 Watch this repository for releases
+3. 🔔 Follow us on GitHub
+
+We're actively working on core components and establishing the foundation for a robust UI framework. Your early interest and feedback are invaluable to us!
 
 ## Features
 
@@ -78,6 +83,17 @@ We welcome contributions! Please see our [Contributing Guide](https://github.com
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](https://github.com/cturk/nebula-ui/blob/main/LICENSE) file for details.
+
+## Topics
+
+- #ui-framework
+- #react-components
+- #typescript
+- #modern-design
+- #web-components
+- #design-system
+- #responsive-design
+- #accessibility
 
 ---
 
